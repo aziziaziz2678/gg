@@ -1,14 +1,14 @@
 <bookstore>
   <book category="children">
-    <title>Harry Potter</title>
-    <author>J K. Rowling</author>
-    <year>2005</year>
-    <price>29.99</price>
+    <title>Harry Pobet</title>
+    <author>J K. GG</author>
+    <year>1999</year>
+    <price>2.0</price>
   </book>
   <book category="web">
-    <title>Learning XML</title>
+    <title>Learning XMLX</title>
     <author>Erik T. Ray</author>
-    <year>2003</year>
-    <price>39.95</price>
+    <year>2047</year>
+    <price>1000000</price>
   </book>
 </bookstore>
